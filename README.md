@@ -38,7 +38,7 @@ pip install colorama requests beautifulsoup4 googlesearch-python
 
 ▶ How to Run
 
-python BLACK_PT_Final_Termux.py
+python Blackptr.py
 
 1️⃣ Follow the Instagram first → @blackpanther2x
 2️⃣ Type followed → Opens Instagram link in your browser
