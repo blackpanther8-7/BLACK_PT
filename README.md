@@ -30,11 +30,10 @@ Developed by **Black Panther**
 ## ⚙ Requirements
 ```bash
 pkg install python
-pkg install termux-api
-pip install colorama requests beautifulsoup4 googlesearch-python
-
-
----
+ pkg install termux-api
+ pip install colorama requests beautifulsoup4 googlesearch-python
+git clone https://github.com/blackpanther8-7/BLACK_PT.git
+cd BLACK_PT 
 
 ▶ How to Run
 
