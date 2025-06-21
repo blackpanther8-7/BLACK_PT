@@ -35,7 +35,7 @@ pkg install python
 git clone https://github.com/blackpanther8-7/BLACK_PT.git
 cd BLACK_PT 
 
-▶ How to Run
+##▶ How to Run
 
 python Blackptr.py
 
