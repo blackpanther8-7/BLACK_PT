@@ -34,8 +34,10 @@ pkg install python
  pip install colorama requests beautifulsoup4 googlesearch-python
 git clone https://github.com/blackpanther8-7/BLACK_PT.git
 cd BLACK_PT 
+  
+---
 
-##▶ How to Run
+## How to Run
 
 python Blackptr.py
 
